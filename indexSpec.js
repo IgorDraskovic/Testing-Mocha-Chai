@@ -5,7 +5,7 @@ var expect = require('chai').expect;
 //FUNCTIONS
 var word = require('./index');
 
-
+//Sanitize word function
 describe('Sanitize', function() {
   it('returns lowercae of a string', function() {
 
